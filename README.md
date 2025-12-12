@@ -5,7 +5,7 @@ I'm also a pretty good yo-yo player, eBay seller, a 3D printer operator, mineral
 
 E-mail linderricky@gmail.com 
 
-Certifications: CASP, A+, N+, S+, Cloud Essentials, MCP
+Certifications: CASP (SecurityX), A+, N+, S+, Server+, MS-900, AZ-900, SC-900, AI-900, Cloud Essentials, MCP
 
 <!---
 emperornerd/emperornerd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
